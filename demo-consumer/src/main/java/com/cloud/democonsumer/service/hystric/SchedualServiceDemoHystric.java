@@ -1,8 +1,8 @@
 package com.cloud.democonsumer.service.hystric;
 
-import com.cloud.democonsumer.service.SchedualServiceDemo;
 
-import com.demo.democommon.entity.Role;
+import com.cloud.democonsumer.service.SchedualServiceDemo;
+import com.cloud.demoprovider.entity.Role;
 import org.springframework.stereotype.Component;
 
 import java.util.List;

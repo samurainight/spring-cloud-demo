@@ -1,4 +1,4 @@
-package com.cloud.democonsumer.entity;
+package com.cloud.demoprovider.entity;
 
 import java.util.ArrayList;
 import java.util.Date;

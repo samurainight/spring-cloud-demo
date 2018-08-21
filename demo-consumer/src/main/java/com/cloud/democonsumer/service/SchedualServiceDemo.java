@@ -1,8 +1,10 @@
 package com.cloud.democonsumer.service;
 
+
 import com.cloud.democonsumer.service.hystric.SchedualServiceDemoHystric;
 
-import com.demo.democommon.entity.Role;
+
+import com.cloud.demoprovider.entity.Role;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;

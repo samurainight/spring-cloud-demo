@@ -20,7 +20,6 @@
     </parent>
 
     <modules>
-        <module>demo-common</module>
         <module>demo-server</module>
         <module>demo-provider</module>
         <module>demo-consumer</module>

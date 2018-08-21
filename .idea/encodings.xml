@@ -1,38 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://D:/gunclass/commons" charset="UTF-8" />
-    <file url="file://D:/gunclass/eureka-server" charset="UTF-8" />
-    <file url="file://D:/gunclass/my-project" charset="UTF-8" />
-    <file url="file://D:/gunclass/my-service" charset="UTF-8" />
-    <file url="file://D:/gunclass/my-service-biz" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-api" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-service" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-service-consumer" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-service-consumer2" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-service-provider" charset="UTF-8" />
-    <file url="file://D:/gunclass/rbac/rbac-service-provider2" charset="UTF-8" />
-    <file url="file://D:/gunclass/redis-service/redis-api" charset="UTF-8" />
-    <file url="file://D:/gunclass/redis-service/redis-provider" charset="UTF-8" />
-    <file url="file://D:/gunclass/vic" charset="UTF-8" />
-    <file url="file://D:/gunclass/zuul-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../my-project" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../my-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../my-service-biz" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../redis-biz-service/redis-biz" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../redis-biz-service/redis-biz-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter1" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter1/eureka-server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter1/service-hi" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter2" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter2/service-ribbon" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter3" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../sc-f-chapter3/service-feign" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../schoolwork-practice-biz-service/practice-biz-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../schoolwork-school-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../schoolwork-school-biz-service/school-biz" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/../schoolwork-school-biz-service/school-biz-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo-consumer" charset="UTF-8" />

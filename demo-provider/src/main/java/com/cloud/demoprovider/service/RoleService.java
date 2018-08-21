@@ -1,6 +1,7 @@
 package com.cloud.demoprovider.service;
 
-import com.demo.democommon.entity.Role;
+import com.cloud.demoprovider.entity.Role;
+
 
 import java.util.List;
 

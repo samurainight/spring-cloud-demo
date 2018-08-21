@@ -1,4 +1,4 @@
-package com.demo.democommon.entity;
+package com.cloud.demoprovider.entity;
 
 import java.io.Serializable;
 import java.util.Date;

@@ -1,10 +1,11 @@
 package com.cloud.demoprovider.controller;
 
 import com.cloud.demoprovider.common.ApiReponse;
+import com.cloud.demoprovider.entity.Role;
 import com.cloud.demoprovider.service.RoleService;
-import com.demo.democommon.entity.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,7 +22,7 @@ public class DemoController {
     @Autowired
     private RoleService roleService;
 
-    @RequestMapping("/hi")
+    @GetMapping("/hi")
     public ApiReponse home(@RequestParam(value = "name", defaultValue = "forezp") String name) {
         ApiReponse apiReponse=new ApiReponse();
         List<Role> list=roleService.fetchRoleList();

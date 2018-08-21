@@ -1,9 +1,9 @@
 package com.cloud.demoprovider.service.impl;
 
 import com.cloud.demoprovider.dao.RoleDao;
+import com.cloud.demoprovider.entity.Role;
+import com.cloud.demoprovider.entity.RoleExample;
 import com.cloud.demoprovider.service.RoleService;
-import com.demo.democommon.entity.Role;
-import com.demo.democommon.entity.RoleExample;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
