@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
+        <module name="demo-common" />
+        <module name="demo-consumer" />
+        <module name="demo-provider" />
+        <module name="demo-server" />
+        <module name="demo-zuul" />
+        <module name="eureka-server" />
+        <module name="my-project" />
+        <module name="my-service" />
+        <module name="my-service-biz" />
+        <module name="rbac-api (1)" />
+        <module name="rbac-service-consumer2" />
+        <module name="rbac-service-provider2" />
+        <module name="redis-api" />
+        <module name="redis-service-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="rbac-service-consumer" target="1.8" />
+      <module name="rbac-service-provider" target="1.8" />
+      <module name="redis-biz" target="1.8" />
+      <module name="redis-biz-service" target="1.8" />
+      <module name="vic" target="1.7" />
+      <module name="zuul-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="D:/gunclass/commons" vcs="Git" />
+    <mapping directory="D:/gunclass/eureka-server" vcs="Git" />
+    <mapping directory="D:/gunclass/my-project" vcs="Git" />
+    <mapping directory="D:/gunclass/my-service" vcs="Git" />
+    <mapping directory="D:/gunclass/my-service-biz" vcs="Git" />
+    <mapping directory="D:/gunclass/rbac" vcs="Git" />
+    <mapping directory="D:/gunclass/redis-service" vcs="Git" />
+  </component>
+</project>

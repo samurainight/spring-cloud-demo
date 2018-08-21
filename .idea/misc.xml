@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/gunclass/eureka-server/pom.xml" />
+        <option value="D:/gunclass/commons/pom.xml" />
+        <option value="D:/gunclass/rbac/pom.xml" />
+        <option value="D:/gunclass/rbac/rbac-api/pom.xml" />
+        <option value="D:/gunclass/rbac/rbac-service/pom.xml" />
+        <option value="D:/gunclass/redis-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="D:/gunclass/my-project/pom.xml" />
+        <option value="D:/gunclass/my-service/pom.xml" />
+        <option value="D:/gunclass/my-service-biz/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
